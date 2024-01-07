@@ -3,8 +3,6 @@ Exercise 02: Version Control
 
 The goal of this exercise is to use git to control the source of a simple C++ application. While this exercise demonstrates the command line usage, you can also use one of the many GUI frontends or IDE extensions for git if you prefer. In my experience it is a good idea to at least be familiar with the basic command line usage.
 
-GitHub Invitation URL
-
 Prerequisites:
 
 * You have completed Exercise 01: Setup and have a working command line with compiler and git accessible.
