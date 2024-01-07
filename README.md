@@ -1,6 +1,6 @@
 # ece3574-fl23-ex02
 ---
-title: "Exercise-02: Version Control"
+"Exercise-02: Version Control"
 ---
 
 No matter your preferred analogy for programming – engineering, construction, gardening, art – each has a set of tools that should be mastered to produce the best product. People who really care about their craft know what the best tools are and how to use them. They also are constantly on the lookout for better tools and in some cases build their own. Tools amplify your skills and talents and are often found outside your IDE – Visual Studio and XCode are great, but it is not the only tool or the best tool for all jobs.
